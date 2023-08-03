@@ -1,0 +1,4 @@
+#ignore .env files for security reasons
+.env
+#ugnore the node_nodules folder so we don't upload a ton of stuff to repo
+/node_modules
